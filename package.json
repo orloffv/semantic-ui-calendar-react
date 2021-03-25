@@ -1,7 +1,7 @@
 {
-  "name": "semantic-ui-calendar-react",
+  "name": "semantic-ui-calendar-react-orloffv-fork",
   "sideEffects": false,
-  "version": "0.15.3",
+  "version": "0.16.0",
   "description": "date/time picker built from semantic-ui elements",
   "main": "dist/commonjs/index.js",
   "scripts": {
